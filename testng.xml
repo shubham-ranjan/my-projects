@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Assignment" verbose="1">
+    <test name="Display Travel Quotes in High-Low Premium Amount">
+        <classes>
+            <class name="com.symboinsurance.tests.TravelQuotes" />
+        </classes>
+    </test>
+</suite>
